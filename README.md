@@ -1,3 +1,4 @@
 # apnacolleage-
-hello eveyone
+hello evryone how r u 
 testing
+cd ..
